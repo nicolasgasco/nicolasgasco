@@ -11,8 +11,8 @@
 - JavaScript, TypeScript, C, Python
 
 ## Work
-- Translator-turned-developer, found my real calling after five years of translating video games
 - Currently working as a Front End Developer
+- Translator-turned-developer, found my real calling after five years of translating video games
 
 ## Education
 - Student of 42Urduliz, Bilbao (Spain), where I'm learning algorithms in C and UNIX system administration
