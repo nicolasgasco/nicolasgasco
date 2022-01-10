@@ -1,6 +1,4 @@
-# Hi!
-
-I'm **Nicolas**!
+# Hi! I'm **Nicolas**!
 
 ## Me
 - Italian expat in Spain, fluent in English, German, and Spanish
