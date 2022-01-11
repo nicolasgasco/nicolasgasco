@@ -1,12 +1,12 @@
-# Hi! I'm **Nicolas**!
+# Hi, I'm **Nicolas**!
 
 ## Me
-- Italian expat in Spain, fluent in English, German, and Spanish
+- Italian expat living in Spain and fluent in English, German, Spanish, and of course Italian
 - Focused, driven, and eager to grow as a developer
 - Interested in Web Development and Web3
 
 ## Skills
-- Angular, React, Material, Ionic, and SASS
+- React, Angular, Material, Ionic, and SASS
 - Node, Express
 - JavaScript, TypeScript, C, Python
 
@@ -17,5 +17,6 @@
 ## Education
 - Student of 42Urduliz, Bilbao (Spain), where I'm learning algorithms in C and UNIX system administration
 - BBK Web Development Bootcamp with MERN stack
+- MA in Specialized Translation at the University of Heidelberg, Germany, and BA in Translation at the University of Genoa.
 
 
