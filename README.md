@@ -17,6 +17,6 @@
 ## Education
 - Student of 42Urduliz, Bilbao (Spain), where I'm learning algorithms in C and UNIX system administration
 - BBK Web Development Bootcamp with MERN stack
-- MA in Specialized Translation at the University of Heidelberg, Germany, and BA in Translation at the University of Genoa.
+- MA in Specialized Translation at the University of Heidelberg, Germany and BA in Translation at the University of Genoa, Italy.
 
 
