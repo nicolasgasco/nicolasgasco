@@ -12,7 +12,7 @@
 
 ## Work
 - Currently working as a Front End Developer
-- Translator-turned-developer, found my real calling after five years of translating video games
+- Translator-turned-developer, found my real calling after years as a professional translator
 
 ## Education
 - Student of 42Urduliz, Bilbao (Spain), where I'm learning algorithms in C and UNIX system administration
