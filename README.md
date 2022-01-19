@@ -1,7 +1,7 @@
 # Hi, I'm **Nicolas**!
 
 ## Me
-- Italian expat living in Spain and fluent in English, German, Spanish, and of course Italian
+- Italian expat living in Spain and fluent in English, German, Spanish, and welp... Italian
 - Focused, driven, and eager to grow as a developer
 - Interested in Web Development and Web3
 
