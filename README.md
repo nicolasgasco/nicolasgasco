@@ -6,9 +6,10 @@
 - Interested in Web Development and Web3
 
 ## Skills
-- React, Angular, Material, Ionic, and SASS
-- NextJs, Node, Express
-- JavaScript, TypeScript, C, Python
+- JavaScript, TypeScript
+- React
+- NextJs, NodeJs, Express
+- C and Python
 
 ## Work
 - Currently working as a Front End Developer
