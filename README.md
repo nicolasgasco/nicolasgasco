@@ -1,7 +1,7 @@
 # Hi, I'm **Nicolas**!
 
 ## Work
-- Front-End Developer at @Qonto 🚀
+- Front-End Developer at [@Qonto](https://qonto.com/en) 🚀
 - Translator-turned-developer, found my real calling after years as a professional translator 💻
 
 ## Me
