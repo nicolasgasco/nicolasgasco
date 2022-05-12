@@ -1,19 +1,18 @@
 # Hi, I'm **Nicolas**!
 
+## Work
+- Front-End Developer at @Qonto 🚀
+- Translator-turned-developer, found my real calling after years as a professional translator 💻
+
 ## Me
-- Italian expat living in Spain and fluent in English, German, Spanish, and Italian
-- Focused, driven, and eager to grow as a developer
-- Interested in Web Development and Web3
+- Italian expat living in Spain and fluent in 🇺🇸, 🇩🇪, 🇪🇸, and 🇮🇹
+- Focused, driven, and eager to grow as a developer 🦾
 
 ## Skills
 - JavaScript, TypeScript
-- React
+- EmberJs, React
 - NextJs, NodeJs, Express
 - C and Python
-
-## Work
-- Currently working as a Front End Developer
-- Translator-turned-developer, found my real calling after years as a professional translator
 
 ## Education
 - Student of 42Urduliz, Bilbao (Spain), where I'm learning C, C++, algorithms and data structures
