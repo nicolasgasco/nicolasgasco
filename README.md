@@ -12,7 +12,7 @@
 - JavaScript, TypeScript
 - EmberJs, React
 - NextJs, NodeJs, Express
-- C and Python
+- C++, C and Python
 
 ## Education
 - Student of 42Urduliz, Bilbao (Spain), where I'm learning C, C++, algorithms and data structures
