@@ -1,8 +1,8 @@
 # Hi, I'm **Nicolas**!
 
 ## Work
-- Front-End Developer at [@Qonto](https://qonto.com/en) 🚀
-- Translator-turned-developer, found my real calling after years as a professional translator 💻
+- Front-End Engineer at [@Qonto](https://qonto.com/en) 🚀
+- Translator-turned-developer, found my real calling after years as a pro translator 💻
 
 ## Me
 - Italian expat living in Spain and fluent in 🇺🇸, 🇩🇪, 🇪🇸, and 🇮🇹
