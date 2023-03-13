@@ -5,7 +5,7 @@
 - Translator-turned-developer, found my real calling after years as a pro translator 💻
 
 ## Me
-- Italian expat living in Spain and fluent in 🇺🇸, 🇩🇪, 🇪🇸, and 🇮🇹
+- Italian expat living in Spain and fluent in 🇺🇸, 🇮🇹, 🇪🇸, and 🇩🇪 
 - Focused, driven, and eager to grow as a developer 🦾
 
 ## Skills
