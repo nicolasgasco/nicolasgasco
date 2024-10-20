@@ -2,10 +2,10 @@
 
 ## Work
 - Front-End Engineer at [@Qonto](https://qonto.com/en) 🚀
-- Translator-turned-developer, found my real calling after years as a pro translator 💻
+- Translator-turned-developer, found my real calling after years as a translator 💻
 
 ## Me
-- Italian expat living in Spain and fluent in 🇺🇸, 🇮🇹, 🇪🇸, and 🇩🇪 
+- Italian expat living in Spain. Fluent in 🇺🇸, 🇮🇹, 🇪🇸, and 🇩🇪 
 - Focused, driven, and eager to grow as a developer 🦾
 
 ## Skills
