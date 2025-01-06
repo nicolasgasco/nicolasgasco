@@ -7,14 +7,14 @@
 ## Me
 - Italian expat living in Spain. Fluent in 🇺🇸, 🇮🇹, 🇪🇸, and 🇩🇪 
 - Focused, driven, and eager to grow as a developer 🦾
+- Passionate about surfing 🏄🌊
 
 ## Skills
 - JavaScript, TypeScript
 - EmberJs, React
 - NextJs, NodeJs, Express
-- C++, C and Python
+- C++, C, and Python
 
 ## Education
-- Student at 42Urduliz, Bilbao (Spain), where I'm learning C, C++, algorithms and data structures
-- BBK Web Development Bootcamp with MERN stack
+- Part of [42Urduliz](https://www.42network.org/) campus in Bilbao (Spain)
 - MA in Specialized Translation at the University of Heidelberg, Germany and BA in Translation at the University of Genoa, Italy.
